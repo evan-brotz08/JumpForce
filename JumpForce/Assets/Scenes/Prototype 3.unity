@@ -363,7 +363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee5badb526bef5648819512f5b840781, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpforce: 10
+  jumpforce: 700
   gravityModifier: 1.5
   isOnGround: 1
   gameOver: 0
